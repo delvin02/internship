@@ -22,4 +22,8 @@ splose is an AI practice management platform serving the Allied Health sector. T
 
 ---
 
-Link: [Charter Presentation](https://docs.google.com/presentation/d/1-S7wkunQiJNWGYChYazYPjBCD8GshpF0LjYH8V2K_ho/edit?usp=sharing)
+## Links
+
+[Charter Presentation](https://docs.google.com/presentation/d/1-S7wkunQiJNWGYChYazYPjBCD8GshpF0LjYH8V2K_ho/edit?usp=sharing)
+
+[Final Presentation](https://docs.google.com/presentation/d/1lnvjGImb3n1lDhhX6I6v_h9n1KFORM8IDQpRV2jI_HA/edit?usp=sharing)
